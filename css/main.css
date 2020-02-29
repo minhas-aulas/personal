@@ -823,7 +823,7 @@ td, th {
 
 .generic-banner {
   margin-top: 60px;
-  background-color: #8490ff;
+  background-color: red;
   text-align: center;
 }
 
@@ -2321,9 +2321,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -moz-linear-gradient(0deg,red 0%, red 100%);
+  background: -webkit-linear-gradient(0deg,red 0%, red 100%);
+  background: -ms-linear-gradient(0deg,0deg,red 0%, red 100%);
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
@@ -2817,7 +2817,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-right: auto;
   width: 140px;
   height: 140px;
-  background-color: rgba(132, 144, 255, 0.1);
+  background-color:rgba(132, 144, 255, 0.1);
   border-radius: 100px;
   align-items: center;
   display: grid;
