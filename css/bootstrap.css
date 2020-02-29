@@ -101,7 +101,17 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  animation: epilepsia 2s infinite;
+  /* background-color: #fff; */
+}
+
+@keyframes epilepsia {
+  0% {background-color: pink;}
+  25% {background-color: yellow;}
+  50% {background-color: red;}
+  75% {background-color: green;}
+  100% {background-color: pink;}
+
 }
 
 [tabindex="-1"]:focus {
