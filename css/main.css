@@ -2372,12 +2372,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #008000;
 }
 
-<<<<<<< HEAD
+
 .p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
   background: -moz-linear-gradient(0deg,red 0%, red 100%);
   background: -webkit-linear-gradient(0deg,red 0%, red 100%);
   background: -ms-linear-gradient(0deg,0deg,red 0%, red 100%);
-=======
+}
 .p1-gradient-bg,
 .banner-left .primary-btn,
 .home-about-right .primary-btn,
@@ -2387,10 +2387,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 .brands-area,
 .about-banner,
 .sb_bar {
-  background: -moz-linear-gradient(0deg, #000000 0%, #f2fc62 100%);
-  background: -webkit-linear-gradient(0deg, #000000 0%, #f2fc62 100%);
-  background: -ms-linear-gradient(0deg, #000000 0%, #f2fc62 100%);
->>>>>>> b527ec6a2447785c3236e200d66969684070a32a
+
+  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
 }
 
 .p1-gradient-color,
